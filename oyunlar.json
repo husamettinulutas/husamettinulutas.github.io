@@ -1,10 +1,5 @@
 [
   {
-    "slug": "highway-driver",
-    "ad": "Highway Driver",
-    "aciklama": "An endless highway racing game for Android."
-  },
-  {
     "slug": "hopstrike",
     "ad": "Hopstrike",
     "aciklama": "A fast-paced arena shooter for Android."
@@ -13,5 +8,10 @@
     "slug": "alien-canyon",
     "ad": "Alien Canyon: Apex GP",
     "aciklama": "First-person motorbike racing through alien canyons"
+  },
+  {
+    "slug": "highway-driver",
+    "ad": "Highway Driver",
+    "aciklama": "An endless highway racing game for Android and iOS."
   }
 ]
